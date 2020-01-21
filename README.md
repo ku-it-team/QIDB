@@ -6,7 +6,7 @@
 # 開発環境構築
 
 ```
-$ git clone git@github.com:showwin/QIDB.git
+$ git clone https://github.com/ku-it-team/QIDB.git
 $ cd QIDB
 $ docker-compose Build
 $ docker-compose up
